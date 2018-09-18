@@ -1,0 +1,29 @@
+page-tourism {
+text-align: center;
+img{
+    display:block;
+    margin: 1px auto; 
+  }
+  .bg {
+    background-image: url(../../assets/imgs/tourism-wallpapers.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  button{
+    font-size: 12;
+    padding: 12px 28px;
+
+    text-align: center;
+    
+    margin: auto;
+    
+}
+.list{
+  background: rgba(0,0,0,0);
+  opacity: 0.5;
+  
+}
+ion-label.label{
+  color: black;
+}
+}
